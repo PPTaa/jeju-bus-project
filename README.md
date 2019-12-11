@@ -1,7 +1,5 @@
 # 제주 버스 프로젝트
 
-## data
-
 - train.csv : 대회 train 데이터
 
 - test.csv : 대회 test 데이터
